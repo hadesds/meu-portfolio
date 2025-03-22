@@ -1,6 +1,10 @@
 # Meu Portfólio de Hardware e Arduino
 
-Olá! Meu nome é [Rafael] e sou um garoto trans apaixonado por desenvolvimento de hardware e robótica! Por esse motivo, por meio da UNDB e meu curso de graduação, Engenharia de Software, fundei a Liga Acadêmica de Robótica e Programção (LARP), eem que atualmente sou presidente e ajudo a coordenar projetos e eventos de extensão, ensino e pesquisa.
+Olá, me chamo Rafael Silva e sou um garoto transexual graduando de Engenharia de Software na UNDB do 3º Período.
+
+Tenho forte interesse em atuar na área de Robótica desde muito jovem e, por esse fato, ao máximo me especializo e busco em meu curso atualmente formas de adquirir conhecimento sobre.
+
+Portanto, ao final do meu 2º período (2024.2) ajudei a fundar a Liga Acadêmica de Robótica e Programação da UNDB ou LARP. Tive uma breve introdução a Robótica com Arduino e atualmente atuo como Presidente da Liga Acadêmica, mas sempre quero me especializar ainda mais.
 
 Aqui estão alguns dos meus projetos mais recentes.
 
@@ -20,16 +24,17 @@ Aqui estão alguns dos meus projetos mais recentes.
 - **Descrição**: Um mecanismo de garra que pode abrir e fechar, controlado manualmente por um joystick.
 - **Tecnologias**: Arduino Uno, servomotor para movimentar a garra e joystick analógico para controle.
 - **Código-Fonte**: https://create.arduino.cc/editor/_/2d4c1ff1-8579-4b8d-8379-d053748b25c4/preview
+- **Extra**: Não deu muito certo pela falta de altura e braço, ou seja só conseguimos fazer a garra funcionar.
 
 ### 4. Drone
 - **Descrição**: Atualmente em um projeto de criação de drone em que vou me especializar dessa vez na área do design do protótipo.
 - **Tecnologias**: Tinkercad e Impressora 3D
 
 ## Habilidades Técnicas
-- **Linguagens**: C/C++ (Arduino), Python e Java (atualmente principal porque estou fazendo um curso focado).
-- **Ferramentas**: Arduino IDE.
+- **Linguagens**: C/C++ (Arduino) em que estou me aprimorando para a robótica, Python e Java (atualmente principal estudada porque estou fazendo um curso focado, Módeulo 2 da Incode Tech School).
+- **Ferramentas**: Arduino IDE e TinkerCad
 
 ## Contato
-- **E-mail**: mhadessds@gmail.com
+- **E-mail**: hadessds@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/rafael-silva-664359218/
 - **GitHub**: https://github.com/hadesds
